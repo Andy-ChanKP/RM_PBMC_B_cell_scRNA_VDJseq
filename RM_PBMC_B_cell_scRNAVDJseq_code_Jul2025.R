@@ -760,14 +760,14 @@ ggsave("Fig5B_1.tiff",
        plot = Fig5B_1,
        dpi = 600, 
        height = 2,
-       width  = 3.45, 
+       width  = 6.9, 
        units = "in") 
 
 ggsave("Fig5B_2.tiff",
        plot = Fig5B_2,
        dpi = 600, 
        height = 2,
-       width  = 3.45, 
+       width  = 6.9, 
        units = "in") 
 
 
